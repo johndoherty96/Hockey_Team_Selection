@@ -47,6 +47,8 @@ Confirm Appropriate Changes and Calculations Were Made to the Attribute Table: <
 <img src="https://imgur.com/xLijaN7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+<h2>Citations and Acknowledgment:</h2>
+- <b>All data for this project was provided by Penn State University</b>
 
 <!--
  ```diff
